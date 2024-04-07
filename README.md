@@ -2,11 +2,10 @@
 
 I'm a brazilian Full-Stack Dev and Indie Founder documenting my software building journey and sharing thougths along the way. I believe that the power of software lies not only in its functionality but in the positive impact it can have on people and communities.
 
-- 🎂 26 years old
 - 🇧🇷 From Brazil
 - 👨‍💻 Self-taught Software Developer
 - 👨‍💻 Freelancer
-- ⚒ Indie Hacker
+- ⚒ Indie Maker
 
 ## 🌱 What I'm working on
 
@@ -29,7 +28,7 @@ I'm a brazilian Full-Stack Dev and Indie Founder documenting my software buildin
 - jQuery
 - Java/Processing
 - Arduino
-- X86 Assembly
+- x86 Assembly
 
 ## 🗿 Personal values
 
