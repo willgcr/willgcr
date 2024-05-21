@@ -4,16 +4,17 @@ I'm a Brazilian Full-Stack Dev and Indie Founder documenting my software-buildin
 
 - 🇧🇷 From Brazil
 - 👨‍💻 Self-Taught Dev
-- 👨‍💻 Freelancer
-- ⚒ Indie Maker
+- 🔍 Detail-Oriented
+- 📚 Lifelong Learner
+- 🚀 Indie Maker
 
 ## 🌱 What I'm working on
 
-- 🌌 [StarLab Digital Ventures](https://starlabtech.com.br) - Content Hub 👉 Full-Stack Dev
-- 🔗 [4bio.one](https://4bio.one) - A Link in Bio tool (closed-β) 👉 Indie Hacker 🕵️‍♂️
-- 👨‍💻 [Freelancing](mailto:hello@willgcr.me) - Full-Stack Dev
+- 🌌 [StarLab Digital Ventures](https://starlabtech.com.br) - Content Hub 👉 Full-Stack Engineer
+- ✨ [SkyBot](https://github.com/willgcr/sky-bot) - Open-Source Project consisting of an astronomical data API
+- ~🔗 [4bio.one](https://4bio.one) - A Link in Bio tool (closed-β) 👉 Founder / Indie Hacker 🕵️‍♂️~ (Acquired)
 
-## 👨‍💻 How I've been talking to machines (recently)
+## How I've been talking to machines
 
 - ⚙️ Backend (PHP, Python, Node.js) ➔ Laravel, Flask, Express
 - ✨ Frontend (HTML/JS/CSS) ➔ React, Tailwind
