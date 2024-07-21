@@ -10,7 +10,8 @@ I'm a Brazilian Full-Stack Dev and Indie Founder documenting my software-buildin
 
 ## 🌱 What I'm working on
 
-- 🌌 [StarLab Digital Ventures](https://starlabtech.com.br) - Content Hub 👉 Full-Stack Engineer
+- 🏢 [Plaza Technologies](https://useplaza.com.br) - PropTech 👉 Software Engineer
+- 🌌 [StarLab Digital Ventures](https://starlabtech.com.br) - Content Hub 👉 Tech Advisor
 - ✨ [SkyBot](https://github.com/willgcr/sky-bot) - Open-Source Project consisting of an astronomical data API
 - ~🔗 [4bio.one](https://4bio.one) - A Link in Bio tool (closed-β) 👉 Founder / Indie Hacker 🕵️‍♂️~ (Acquired)
 
