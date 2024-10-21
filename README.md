@@ -17,7 +17,7 @@ I'm a Brazilian Full-Stack Dev and Indie Founder documenting my software-buildin
 
 ## How I've been talking to machines
 
-- ⚙️ Backend (PHP, Python, Node.js) ➔ Laravel, Flask, Express
+- ⚙️ Backend (Ruby, PHP, Python, Node.js) ➔ Rails, Laravel, Flask, Express
 - ✨ Frontend (HTML/JS/CSS) ➔ React, Tailwind
 - #️⃣ Scripting ➔ Python, Bash
 - 🗄️ Databases ➔ MySQL, SQLite, MongoDB
