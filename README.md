@@ -1,6 +1,6 @@
 # Hi there! 🖖 Welcome to my GitHub profile!
 
-I'm a Brazilian Full-Stack Dev and Indie Founder documenting my software-building journey and sharing thoughts along the way. I believe that the power of software lies not only in its functionality but in the positive impact it can have on people and communities.
+I'm a Brazilian Full-Stack Dev documenting my software-building journey and sharing thoughts along the way. I believe that the power of software lies not only in its functionality but in the positive impact it can have on people and communities.
 
 - 🇧🇷 From Brazil
 - 👨‍💻 Self-Taught Dev
